@@ -1,4 +1,4 @@
-# ManisankarBaral
+# Manisankar Baral
 My project is simple calculator.
 # simple Calculator in C
 This projectnis asimple Calculator Program implemented in the C programming language.
